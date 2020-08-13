@@ -1,0 +1,62 @@
+body{
+	background-image: url('https://cdn.pixabay.com/photo/2016/05/24/20/03/background-1413126_640.jpg');
+	background-size: cover;
+}
+.logo{
+	float: left;
+}
+.navi{
+	float: right;
+
+}
+li a {
+	color: black;
+
+}
+.pges ul li {
+	display: inline-block;
+	max-width: 100%;
+	padding-right: 10px;
+}
+
+.pges ul li a {
+	padding-left: 10px;
+} 
+.pges ul li a:hover {
+	color: red;
+	
+}
+.home{
+	color: red;
+}
+.heading{
+	color: purple;
+	font-family: 'Creepster', cursive;
+	margin-left: 20px;
+	font-weight: bolder;
+	font-size: 40px;
+	text-align: center;
+	text-decoration: underline red;
+	max-width: 100%;
+
+
+}
+.imeg{
+	float: left;
+	max-width: 100%;
+	
+	box-shadow: 0px 10px 20px;
+}
+.c1{
+	float: left;
+}
+.c2{
+	float: right;
+	max-width: 100%;
+}
+p{
+	font-size: 30px;
+	font-family: 'Creepster', cursive;
+	color: #e62e00;
+	
+}

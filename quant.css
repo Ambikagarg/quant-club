@@ -1,0 +1,74 @@
+body{
+	background-image: url('https://i.ytimg.com/vi/ra58oUpM7yo/maxresdefault.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+
+}
+.logo{
+	float: left;
+}
+.navi{
+	float: right;
+
+}
+li a {
+	color: white;
+
+}
+.pges ul li {
+	display: inline-block;
+	padding-right: 10px;
+}
+
+.pges ul li a {
+	padding-left: 10px;
+} 
+.pges ul li a:hover {
+	color: red;
+	
+}
+ 
+.home{
+	color: #66F6E7;
+}
+.info {
+	color:  #e60000;
+	font-size: 30px;
+	font-family: 'Creepster', cursive;
+
+
+}
+.info ul{
+	margin-top: 200px;
+}
+.list1{
+	margin-top: 20px;
+}
+.heading{
+	font-size: 50px;
+	color: #ff0066;
+	margin-top: 100px;
+	margin-left: 300px;
+}
+.about{
+	background-color: #00ffff;
+	opacity: 0.5;
+	width: 1000px;
+	padding-left: 10px;
+	padding-bottom: 10px;
+	padding-right: 10px;
+	float: left;
+	max-width: 100%;
+	margin-top: 10px;
+	margin-left: 30px;
+}
+.girl{
+	float: right;
+
+}
+.girl{
+	padding-top: 100px;
+}
+@media only screen and (min-width: 1000px){
+
+}

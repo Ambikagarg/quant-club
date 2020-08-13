@@ -1,0 +1,49 @@
+body{
+	background-image: url('https://frontera.net/wp-content/uploads/2017/07/bigstock-Business-Man-On-Digital-Stock-170575319.jpg');
+	background-size: cover;
+}
+.logo{
+	float: left;
+}
+.navi{
+	float: right;
+
+}
+li a {
+	color: red;
+
+}
+.pges{
+	max-width: 100%;
+}
+.pges ul li {
+	display: inline-block;
+	padding-right: 10px;
+}
+
+.pges ul li a {
+	padding-left: 10px;
+} 
+.pges ul li a:hover {
+	color: purple;
+	
+}
+.about{
+	background-color: white;
+	width: 800px;
+	padding-left: 20px;
+	opacity: 0.6;
+	font-family: 'Open Sans', sans-serif;
+    font-family: 'Pacifico', cursive;
+    padding-bottom: 20px;
+    max-width: 100%;
+
+
+}
+.heading{
+	font-weight: bolder;
+	color: red;
+}
+.home{
+	color: purple;
+}
